@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "487442896333",
+    "firebase_url": "https://lms-versity-default-rtdb.firebaseio.com",
+    "project_id": "lms-versity",
+    "storage_bucket": "lms-versity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487442896333:android:cab7fd460f3d6589052084",
+        "android_client_info": {
+          "package_name": "com.tamim.libraryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487442896333-fpbeu14ap285kq8k86dd5qcsvl4ic1vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTuR-LDqUWs4c5qq3bdy-gLcqsxQx0h08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487442896333-fpbeu14ap285kq8k86dd5qcsvl4ic1vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487442896333:android:9263ea9073c75a75052084",
+        "android_client_info": {
+          "package_name": "com.tamim.lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487442896333-dfe2f4tvdehm2ipss7iql8mio181kqid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamim.lms",
+            "certificate_hash": "70cd10f55d559b933a68d4e28437f79841df7834"
+          }
+        },
+        {
+          "client_id": "487442896333-fpbeu14ap285kq8k86dd5qcsvl4ic1vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTuR-LDqUWs4c5qq3bdy-gLcqsxQx0h08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487442896333-fpbeu14ap285kq8k86dd5qcsvl4ic1vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
