@@ -122,7 +122,7 @@ public class SignInActivity extends AppCompatActivity implements View.OnClickLis
         boolean res= (verifyEmailId()|verifyPass());
         if(res==true)
             return;
-        String id=editID.getEditText().getText().toString().trim()+"@iiitnr.edu.in";
+        String id=editID.getEditText().getText().toString().trim()+"tamim.edu.bd";
         String pass=editPass.getEditText().getText().toString().trim();
         progressDialog.setMessage("Signing In ... ");
         progressDialog.show();
